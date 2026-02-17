@@ -1,0 +1,10 @@
+.git
+.gitignore
+node_modules
+client/node_modules
+dist
+client/dist
+npm-debug.log
+yarn-error.log
+*.log
+README.md
